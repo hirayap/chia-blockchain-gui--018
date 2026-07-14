@@ -23,7 +23,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/runtime": "7.27.6",
+    "@babel/runtime": "8.0.0",
     "@emoji-mart/data": "1.1.2",
     "@fontsource/roboto": "5.0.8",
     "@lingui/macro": "4.11.4",
